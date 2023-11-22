@@ -411,3 +411,38 @@
 2023-11-20 08:54:54,212 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 08:54:54] "OPTIONS /execute HTTP/1.1" 200 -
 2023-11-20 08:55:00,010 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 08:55:00] "POST /execute HTTP/1.1" 200 -
 2023-11-20 08:55:00,054 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 08:55:00] "POST /execute HTTP/1.1" 200 -
+2023-11-21 22:39:24,713 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-11-21 22:39:24,714 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 22:39:24,714 - werkzeug - INFO -  * Restarting with stat
+2023-11-21 22:39:25,783 - werkzeug - WARNING -  * Debugger is active!
+2023-11-21 22:39:25,793 - werkzeug - INFO -  * Debugger PIN: 782-808-573
+2023-11-21 22:39:32,826 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:39:32] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-21 22:39:34,066 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:39:34] "POST /execute HTTP/1.1" 200 -
+2023-11-21 22:39:56,276 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:39:56] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-21 22:39:57,467 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:39:57] "POST /execute HTTP/1.1" 200 -
+2023-11-21 22:40:13,845 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:40:13] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-21 22:40:15,110 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:40:15] "POST /execute HTTP/1.1" 200 -
+2023-11-21 22:40:24,277 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:40:24] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-21 22:40:25,476 - werkzeug - INFO - 127.0.0.1 - - [21/Nov/2023 22:40:25] "POST /execute HTTP/1.1" 200 -
+2023-11-22 09:16:30,197 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-11-22 09:16:30,198 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-22 09:16:30,198 - werkzeug - INFO -  * Restarting with stat
+2023-11-22 09:16:31,303 - werkzeug - WARNING -  * Debugger is active!
+2023-11-22 09:16:31,314 - werkzeug - INFO -  * Debugger PIN: 782-808-573
+2023-11-22 09:17:26,091 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:17:26] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-22 09:17:31,790 - tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-11-22 09:17:32,206 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2023-11-22 09:17:32,206 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2023-11-22 09:17:32,207 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2023-11-22 09:17:32,207 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2023-11-22 09:17:34,336 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:17:34] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-22 09:17:38,785 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:17:38] "POST /execute HTTP/1.1" 200 -
+2023-11-22 09:17:38,905 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:17:38] "POST /execute HTTP/1.1" 200 -
+2023-11-22 09:19:19,380 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:19:19] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-22 09:19:20,679 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:19:20] "POST /execute HTTP/1.1" 200 -
+2023-11-22 09:21:47,691 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:21:47] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-22 09:21:59,002 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:21:59] "OPTIONS /execute HTTP/1.1" 200 -
+2023-11-22 09:22:01,339 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:22:01] "POST /execute HTTP/1.1" 200 -
+2023-11-22 09:22:03,608 - werkzeug - INFO - 127.0.0.1 - - [22/Nov/2023 09:22:03] "POST /execute HTTP/1.1" 200 -
