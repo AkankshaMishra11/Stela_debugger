@@ -87,5 +87,4 @@ def capture_images():
     return images
 
 if __name__ == '__main__':
-    logging.basicConfig(filename='app.log', level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    app.run(debug=True, port=8080)
+    app.run(host="0.0.0.0", port=5000)
